@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				250,
+				-30,
 				-23
 			],
 			"anim": "singLEFT",
@@ -25,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
+				289,
 				-60
 			],
 			"anim": "singRIGHT",
@@ -54,6 +54,17 @@
 			"fps": 24,
 			"name": "Mom Up Pose",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				304,
+				462
+			],
+			"anim": "hey",
+			"fps": 33,
+			"name": "mom OI",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -70,8 +81,8 @@
 		142
 	],
 	"camera_position": [
-		0,
-		0
+		10,
+		50
 	],
 	"sing_duration": 4,
 	"scale": 1
